@@ -1,4 +1,5 @@
-# projeto: loja de carros 
-nome: acelerando juntos
- tipos de carros: novos, semi novo e classicos 
+# projeto: loja de roupas 
+nome: santa griffe
+roupas de griffe de alta qualidade, com preços acessiveis, atacado e varejo 
+
  
